@@ -1,0 +1,7 @@
+[20/09/2018:09:12:12] [error] : Page Not Found in : /var/bluemail/mfw/routing/Router.php at line : 186
+[20/09/2018:09:18:01] [error] : Page Not Found in : /var/bluemail/mfw/routing/Router.php at line : 186
+[20/09/2018:09:36:55] [error] : SQLSTATE[3F000]: Invalid schema name: 7 ERROR: schema "gmail" does not exist in : /var/bluemail/mfw/database/Connector.php at line : 426
+[20/09/2018:09:37:05] [error] : SQLSTATE[3F000]: Invalid schema name: 7 ERROR: schema "gmail" does not exist in : /var/bluemail/mfw/database/Connector.php at line : 426
+[20/09/2018:09:40:29] [error] : SQLSTATE[3F000]: Invalid schema name: 7 ERROR: schema "gmail" does not exist in : /var/bluemail/mfw/database/Connector.php at line : 426
+[20/09/2018:09:40:33] [error] : SQLSTATE[3F000]: Invalid schema name: 7 ERROR: schema "gmail" does not exist in : /var/bluemail/mfw/database/Connector.php at line : 426
+[20/09/2018:11:02:00] [error] : Page Not Found in : /var/bluemail/mfw/routing/Router.php at line : 186

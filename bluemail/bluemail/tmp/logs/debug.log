@@ -1,0 +1,68 @@
+[20/09/2018:09:34:12] [debug] : Unknown error type : [8] Undefined variable: serversCount 
+
+[20/09/2018:09:34:12] [debug] : Unknown error type : [8] Undefined variable: ipsCount 
+
+[20/09/2018:09:34:12] [debug] : Unknown error type : [8] Undefined variable: emailsCount 
+
+[20/09/2018:09:34:12] [debug] : Unknown error type : [8] Undefined variable: deliveryCount 
+
+[20/09/2018:09:34:12] [debug] : Unknown error type : [8] Undefined variable: bounceCount 
+
+[20/09/2018:09:34:12] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:34:12] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:34:12] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:35:34] [debug] : Unknown error type : [8] Undefined variable: serversCount 
+
+[20/09/2018:09:35:34] [debug] : Unknown error type : [8] Undefined variable: ipsCount 
+
+[20/09/2018:09:35:34] [debug] : Unknown error type : [8] Undefined variable: emailsCount 
+
+[20/09/2018:09:35:34] [debug] : Unknown error type : [8] Undefined variable: deliveryCount 
+
+[20/09/2018:09:35:34] [debug] : Unknown error type : [8] Undefined variable: bounceCount 
+
+[20/09/2018:09:35:34] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:35:34] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:35:34] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:36:02] [debug] : Unknown error type : [2] Invalid argument supplied for foreach() 
+
+[20/09/2018:09:45:37] [debug] : Unknown error type : [8] Use of undefined constant isps - assumed 'isps' 
+
+[20/09/2018:09:54:21] [debug] : Unknown error type : [8] Undefined variable: serversCount 
+
+[20/09/2018:09:54:21] [debug] : Unknown error type : [8] Undefined variable: ipsCount 
+
+[20/09/2018:09:54:21] [debug] : Unknown error type : [8] Undefined variable: emailsCount 
+
+[20/09/2018:09:54:21] [debug] : Unknown error type : [8] Undefined variable: deliveryCount 
+
+[20/09/2018:09:54:21] [debug] : Unknown error type : [8] Undefined variable: bounceCount 
+
+[20/09/2018:09:54:21] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:54:21] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:54:21] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:58:55] [debug] : Unknown error type : [8] Undefined variable: serversCount 
+
+[20/09/2018:09:58:55] [debug] : Unknown error type : [8] Undefined variable: ipsCount 
+
+[20/09/2018:09:58:55] [debug] : Unknown error type : [8] Undefined variable: emailsCount 
+
+[20/09/2018:09:58:55] [debug] : Unknown error type : [8] Undefined variable: deliveryCount 
+
+[20/09/2018:09:58:55] [debug] : Unknown error type : [8] Undefined variable: bounceCount 
+
+[20/09/2018:09:58:55] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:58:55] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
+[20/09/2018:09:58:55] [debug] : Unknown error type : [8] Undefined variable: connectedUser 
+
